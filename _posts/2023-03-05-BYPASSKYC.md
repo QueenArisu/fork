@@ -24,10 +24,10 @@ Tu as besoin de :
 ## [](#header-2)Guide
 
 1.  Installez les deux et préparez votre pack de documents. 
-2.  Maintenant, ouvrez OBS et sous l'onglet "Sources", cliquez sur " " puis sur " Image " 
+2.  Maintenant, ouvrez OBS et sous l'onglet "Sources", cliquez sur "+" puis sur "Image" 
 3.  Ensuite, sélectionnez le chemin de votre image et appuyez sur OK. 
 4.  Vous verrez votre image sélectionnée sur OBS. 
 5.  Maintenant, ouvrez ManyCams, allez dans l'onglet "Texte" et décochez "Afficher le logo ManyCams" Revenez sur OBS et cliquez sur "Démarrer la caméra virtuelle" 
-6.  Maintenant, revenez sur votre site Web que vous essayez de vérifier et démarrez la vérification de la webcam, autorisez l'accès et vous devriez voir votre photo sélectionnée sur la page Web. 
-7.  Vous pouvez modifier la position de la photo (si vous effectuez une vérification par selfie, le visage ira dans la "bulle de tête") sur OBS en déplaçant l'image ou en modifiant la taille en saisissant le coin de la photo. (Ligne rouge) 
+6.  Maintenant, revenez sur votre site Web que vous essayez de bypass et démarrez la vérification de la webcam, autorisez l'accès et vous devriez voir votre photo sélectionnée sur la page Web.
+7.  Vous pouvez modifier la position de la photo (si vous effectuez une vérification par selfie, le visage ira dans la "bulle de tête") sur OBS en déplaçant l'image ou en modifiant la taille en saisissant le coin de la photo. (Ligne rouge)
 > Si votre KYC vous met en plein écran dès que vous démarrez la vérification et s'annule si vous quittez le plein écran, ouvrez OBS, puis démarrez la vérification et dès que vous passez en plein écran, ALT TAB vers la fenêtre OBS donc la vérification ne sera pas annulée et vous pourrez déplacer votre photo. Après cela, redimensionnez simplement votre photo selon vos besoins et prenez la photo.

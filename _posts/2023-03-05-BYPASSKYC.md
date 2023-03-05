@@ -3,8 +3,6 @@ title: Guide Complet pour bypass les KYC
 published: true
 ---
 
-# [](#header-1)Sommaire
-
 *   Connaître les mécanismes des KYC
 *   Comment simuler une webcam en direct
 *   Comment simuler la vérification de la rotation de la tête

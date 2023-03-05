@@ -1,0 +1,15 @@
+---
+title: Hping3, mélange entre NMAP et PING
+published: true
+---
+
+	
+Read Time:3 Minute, 11 Second
+
+Installé de base sur kali, sert à la découverte réseau, le flood, l’envoi de paquet avec adresses IP aléatoires, l’audit de pile TCP/IP, la bypass de parefeu, découverte de path MTU, et beaucoup d’autre chose. Il n’a presque rien à envier à Nmap hormis peut-être les scripts NSE.
+
+Aujourd'hui, on vous le présente pour mettre envie cette pépite cachée de Kali :)
+
+![hping](../assets/hping3.webp)
+
+# [](#header-1)On scanne !

@@ -14,7 +14,7 @@ Donc bon là on va juste faire un point sur ce qu'est un KYC et quelles sont les
 
 # [](#header-1)Simulation d'une webcam en direct
 
-Aujourd'hui, la plupart des sites Web appliquent la vérification via la caméra "Selfie-life", le site vous demandera d'autoriser l'activation de la caméra et l'enregistrement de votre visage, ce qui peut avoir de graves conséquences si l'entreprise que vous utilisez n'est pas en mesure de conserver ses données. Il y a moyen de contrer cette défense
+Aujourd'hui, la plupart des sites Web appliquent la vérification via la caméra "Selfie-life", le site vous demandera d'autoriser l'activation de la caméra et l'enregistrement de votre visage mais ne vous inquiétez pas car il y a moyen de contrer cette défense :))
 
 Tu as besoin de :
 
@@ -23,12 +23,12 @@ Tu as besoin de :
 
 ## [](#header-2)Guide
 
-1.  Installez les deux et préparez votre pack de documents. 
+1.  Installez les deux logiciels et préparez votre pack de documents. 
 2.  Maintenant, ouvrez OBS et sous l'onglet "Sources", cliquez sur "+" puis sur "Image" 
 3.  Ensuite, sélectionnez le chemin de votre image et appuyez sur OK. 
 4.  Vous verrez votre image sélectionnée sur OBS. 
 5.  Maintenant, ouvrez ManyCams, allez dans l'onglet "Texte" et décochez "Afficher le logo ManyCams" Revenez sur OBS et cliquez sur "Démarrer la caméra virtuelle" 
-6.  Maintenant, revenez sur votre site Web que vous essayez de bypass et démarrez la vérification de la webcam, autorisez l'accès et vous devriez voir votre photo sélectionnée sur la page Web.
+6.  Maintenant, revenez sur votre site Web que vous essayez de bypass et démarrez la vérification de la webcam, autorisez l'accès à la webcam et vous devriez voir votre photo sélectionnée sur la page Web.
 7.  Vous pouvez modifier la position de la photo (si vous effectuez une vérification par selfie, le visage ira dans la "bulle de tête") sur OBS en déplaçant l'image ou en modifiant la taille en saisissant le coin de la photo. (Ligne rouge)
 > Si votre KYC vous met en plein écran dès que vous démarrez la vérification et s'annule si vous quittez le plein écran, ouvrez OBS, puis démarrez la vérification et dès que vous passez en plein écran, ALT TAB vers la fenêtre OBS donc la vérification ne sera pas annulée et vous pourrez déplacer votre photo. Après cela, redimensionnez simplement votre photo selon vos besoins et prenez la photo.
 
@@ -51,3 +51,18 @@ Vous pouvez aussi sélectionner "Capture de fenêtre" et sélectionner l'onglet 
 Malheureusement la plupart du temps le selfie ne semble pas très "réel" donc certains sites bien protégés peuvent s'en apercevoir, je vais couvrir ce sujet dans la prochaine grande partie
 
 # [](#header-1)Rendre le visage plus "vivant"
+
+Okkkk donc les prérequis pour bypass ça sont :
+
+* Un compte Tiktok
+* Un téléphone avec une caméra qui marche
+
+Voilà une fois les prérequis réunis on peut passer à la méthode ^^
+
+## [](#header-2)Guide
+
+1. Téléchargez TikTok et créez un compte. Une fois que votre compte TikTok est prêt, ouvrez votre selfie sur votre PC, créez un nouvelle vidéo sur TikTok et sélectionnez le filtre "Dynamic Photo"
+2. Après avoir sélectionné votre filtre, dirigez votre appareil photo vers le selfie qui se trouve sur votre PC et vous verrez que le selfie bouge, sourit, tourne les yeux, etc.
+3. Enregistrez une petite vidéo et téléchargez-la sur TikTok (Assurez-vous qu'elle est publique)
+4. Une fois téléchargé, rendez-vous sur : https://ssstik.io/en (Tiktok Video Downloader) et collez votre lien vidéo sur le site pour télécharger votre vidéo sans le tag tiktok
+5. Après cela, c'est facile, allez sur OBS, sous "Sources", sélectionnez "Médias" et sélectionnez votre Vidéo TikTok que vous venez de télécharger

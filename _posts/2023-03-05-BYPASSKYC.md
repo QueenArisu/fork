@@ -66,3 +66,21 @@ Voilà une fois les prérequis réunis on peut passer à la méthode ^^
 3. Enregistrez une petite vidéo et téléchargez-la sur TikTok (Assurez-vous qu'elle est publique)
 4. Une fois téléchargé, rendez-vous sur : https://ssstik.io/en (Tiktok Video Downloader) et collez votre lien vidéo sur le site pour télécharger votre vidéo sans le tag tiktok
 5. Après cela, c'est facile, allez sur OBS, sous "Sources", sélectionnez "Médias" et sélectionnez votre Vidéo TikTok que vous venez de télécharger
+
+## [](#header-2)Diffuser à partir d'une app android
+
+Prérequis :
+
+* LDplayer
+* Le logiciel de capture de Logitech
+
+## [](#header-2)Guide
+
+1. Après avoir téléchargé ces 2 tools, créez un nouvel émulateur LDPlayer et sélectionnez la résolution 640x640
+2. Ensuite, ouvrez le logiciel de capture Logitech, ouvrez votre photo selfie/docs, mettre la résolution à 1080p puis dans "Source 1" sélectionnez le titre de votre photo ouverte
+3. Après ça allez sur ManyCams, sélectionnez la source de la caméra comme "Logi Capture"
+4. Ensuite, retournez à votre émulateur Android, allez faire votre KYC et quand l'émulateur demande si vous souhaitez utiliser la webcam ou le recadrage de l'écran, sélectionnez webcam et vous devriez voir votre photo téléchargée ici, redimensionnez ou changez la position de la photo par rapport à vos besoins et prenez la photo
+
+# [](#header-1)Fin du Guide
+
+Voilà voilà, avec toutes ces méthodes vous devriez pouvoir aisément bypass beaucoup de KYC, n'oubliez pas que certains KYC utilisent des méthodes de détections plus avancées qui ne sont malheureusement pas couvertes ici mais sont assez rares :)
